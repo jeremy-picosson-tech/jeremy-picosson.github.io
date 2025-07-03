@@ -1,0 +1,22 @@
+
+/* CSS pour les blocs de compétences */
+
+.skill-item-block {
+    display: inline-block; 
+    border: 2px; 
+    padding: 10px; 
+    border-radius: 5px; 
+    background-color:rgb(52, 60, 156); 
+    margin: 20px 0;
+    transition: all 0.3s ease;
+}
+
+.skill-item-block:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: #3700ff;
+}
+
+span .skill-item-block {
+   display: inline; 
+}
