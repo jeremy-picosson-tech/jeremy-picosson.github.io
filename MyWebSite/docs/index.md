@@ -65,7 +65,7 @@ hide:
 
 ### PROJECT MANAGEMENT
 
-- **ATLASSIAN** : Agile with Atlassian JIRA - [✅](hhttps://www.coursera.org/account/accomplishments/certificate/A6HWTWZFECNG)
+- **ATLASSIAN** : Agile with Atlassian JIRA - [✅](https://www.coursera.org/account/accomplishments/records/A6HWTWZFECNG)
 
 - **UNIVERSITY OF ALBERTA** : Software Product Management - [✅](https://www.coursera.org/account/accomplishments/specialization/certificate/T8JEM68F76SW)
     - Introduction to Software Product Management
