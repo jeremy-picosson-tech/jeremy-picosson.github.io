@@ -7,12 +7,19 @@ site_author: Jérémy PICOSSON
 
 repo_name: jeremy-picosson-tech/jeremy-picosson.github.io
 
+nav:
+  - index.md
+  - BLOG:
+    - blog/index.md
+
 theme: 
-  name: material
+  name: material    
+  custom_dir: overrides
   icon:
     repo: fontawesome/brands/github 
     previous: fontawesome/solid/angle-left
   include_sidebar : true
+
 
   palette:
     # Palette toggle for light mode
@@ -29,13 +36,14 @@ theme:
         name: Switch to system preference
 
   features:
-  - toc.follow
-  - search.suggest
-  - navigation.instant
-  - navigation.top
+    - toc.follow
+    - search.suggest
+    - navigation.instant
+    - navigation.top
 
 plugins:
   - search
+  - blog
 
 markdown_extensions:
   - admonition
