@@ -1,9 +1,9 @@
 ---
-comments: true
 draft: false 
 date: 2024-07-11
 categories:
   - Divers
+comments: true
 ---
 
 # Pourquoi ce blog ? Ma vision et mes objectifs
