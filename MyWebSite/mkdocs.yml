@@ -11,6 +11,8 @@ nav:
   - index.md
   - BLOG:
     - blog/index.md
+  - BASE DE CONNAISSANCE:
+    - BASE_CONNAISSANCES/index.md
 
 theme: 
   name: material    
